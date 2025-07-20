@@ -26,7 +26,7 @@ A powerful, intelligent voice assistant inspired by Iron Man's Jarvis, built wit
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Raghava-Ram/Jarvis---AI-Voice-Assistant
    cd voice-assistant
    ```
 
